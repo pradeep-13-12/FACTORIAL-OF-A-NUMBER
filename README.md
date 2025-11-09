@@ -62,24 +62,17 @@ THIN:
 
 END
 
-**Output:**  
 
-<br>
-<br>
-<br>
+**Input:**
+<img width="979" height="534" alt="image" src="https://github.com/user-attachments/assets/bab9136c-2511-4290-bd0a-82921ed7fea4" />
+
+**Output:**  
+<img width="966" height="532" alt="image" src="https://github.com/user-attachments/assets/1bd5cebc-b1f5-46df-8346-f08ac402a4ff" />
 
 
 
 **Manual Calculations:**  
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
+![WhatsApp Image 2025-11-09 at 16 49 50_c374cb41](https://github.com/user-attachments/assets/4a70234b-09ba-44a9-b282-dbc40495619f)
 
 
 
